@@ -19,16 +19,13 @@ return {
                     "yaml",
                     "markdown",
                     "go",
-                    "go-template",
-                    "Dockerfile",
+                    "dockerfile",
                     "c_sharp",
                     "sql",
                     "bicep",
                     "hcl",
-                    "jinja2",
                     "jq",
-                    "jsonnet",
-                    "powershell"
+                    "jsonnet"
                 },
                 auto_install = true,
                 highlight = { enable = true },
