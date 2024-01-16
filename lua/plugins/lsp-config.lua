@@ -17,6 +17,20 @@ return {
                 ensure_installed = {
                     "lua_ls",
                     "ruff_lsp",
+                    "azure_pipelines_ls",
+                    "bashls",
+                    "bicep",
+                    "dockerls",
+                    "docker_compose_language_service",
+                    "gopls",
+                    "helm_ls",
+                    "jsonls",
+                    "jqls",
+                    "marksman",
+                    "pylsp",
+                    "sqlls",
+                    "terraformls",
+                    "yamlls"
                 }
             })
         end
